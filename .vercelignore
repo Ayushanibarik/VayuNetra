@@ -1,0 +1,34 @@
+# Python Backend & AI Packages
+backend/
+smart_shield_ai/
+firmware/
+tests/
+database/
+outputs/
+uploads/
+.venv/
+venv/
+env/
+__pycache__/
+*.py
+*.pyc
+
+# ML Weights & Large Database Files (Exceeds Vercel limits)
+*.pt
+*.pth
+*.onnx
+*.engine
+*.db
+*.sqlite
+*.sqlite3
+*.jsonl
+*.log
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Git & IDE
+.git/
+.vscode/
+.idea/
