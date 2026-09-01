@@ -115,21 +115,6 @@ body.cinematic-command-center {
   align-items: center;
 }
 
-.iaf-emblem-wrap {
-  display: flex;
-  align-items: center;
-  gap: var(--sp-3);
-}
-
-.brand-badge-icon {
-  font-size: 22px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  filter: drop-shadow(0 0 6px rgba(0, 240, 255, 0.45));
-  margin-right: 4px;
-  vertical-align: middle;
-}
 
 .brand-hi {
   color: var(--text-primary);
