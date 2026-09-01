@@ -121,17 +121,14 @@ body.cinematic-command-center {
   gap: var(--sp-3);
 }
 
-.vayu-netra-logo-img {
-  height: 32px !important;
-  width: 32px !important;
-  max-width: 32px !important;
-  max-height: 32px !important;
-  flex-shrink: 0;
-  border-radius: 50%;
-  border: 1.5px solid var(--border-light);
-  box-shadow: none;
-  object-fit: cover;
-  display: inline-block;
+.brand-badge-icon {
+  font-size: 22px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  filter: drop-shadow(0 0 6px rgba(0, 240, 255, 0.45));
+  margin-right: 4px;
+  vertical-align: middle;
 }
 
 .brand-hi {
