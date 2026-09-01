@@ -1,3 +1,14 @@
+---
+title: VayuNetra AI C2 Backend
+emoji: 🛡️
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
+---
+
 # 🛡️ VayuNetra (वायुNetra)
 ### Tactical AI Drone Detection, Sensor Fusion & Airspace Defence C2 System
 
